@@ -26,7 +26,7 @@
    const info = {
     age: 23,
     favColor: function(colorName) {
-        console.log(this.age + this.colorName);
+        console.log(this.age  +  colorName);
         console.log(this);
     }
 }; 
